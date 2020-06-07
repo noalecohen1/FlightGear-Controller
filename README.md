@@ -6,7 +6,7 @@ So, sit back, relax, and enjoy the flight!
 
 ---
 
-## [Server](https://github.com/OBerger96/flightGear-server-side)
+## [Server](https://github.com/noalecohen1/FlightGear-Server-Side)
 In this section we wrote a general server, which can be used over and over again in various projects.
 In order for the server to be re-usable, there must be a seperation between the server's functionality and the rest of the code. 
 
@@ -83,7 +83,7 @@ Right, Down, Right, Right, Down, Down.
 
 ---
 
-## [Interpreter](https://github.com/OBerger96/flightGear-interpreter-lexer-parser) 
+## [Interpreter](https://github.com/noalecohen1/FlightGear-Interpreter-Lexer-Parser) 
 As stated at the beginning of the repository, the project is a GUI of a flight simulator by which you can control the plane and get information from it.
 
 One of its features is running a script, which is basically a kind of custom programming language that can handle the plane.
